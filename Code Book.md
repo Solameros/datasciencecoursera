@@ -1,7 +1,7 @@
 
 ## Code Book
 
-The Final.R script performs the data preparation for further analysis later.
+The run_analysis.R script performs the data preparation for further analysis later.
 
 Download the dataset
 Dataset downloaded and extracted under the folder called UCI HAR Dataset

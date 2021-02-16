@@ -26,7 +26,7 @@ The dataset includes the following files:
 
 - 'CodeBook.txt': describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
-- 'Final.R': R code for getting tidy data.
+- 'run_analysis.R': R code for getting tidy data.
 
 
 Notes: 
