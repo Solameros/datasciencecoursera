@@ -3,9 +3,7 @@
 #the base plotting system, make a plot showing the total PM2.5 emission from all sources for 
 #each of the years 1999, 2002, 2005, and 2008.
 
-library(dplyr)
-library(ggplot2)
-library(misc)
+
 
 ## This first line will likely take a few seconds. Be patient!
 NEI <- readRDS("./summarySCC_PM25.rds")
